@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <h1 align="center"><img src="https://media.giphy.com/media/lQDdDwdZpfYRn1MsJy/giphy.gif" width="200px" height="100px"></h1>
 
@@ -36,3 +37,4 @@
 ---
 
 ![Snake animation](./src/Snake.svg)
+=======
