@@ -26,6 +26,7 @@
 ---
 
 <h3 align="left"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px" height="25px"> GitHub Stats</h3>
+
 <div>
   <a href="https://github.com/Hubertjerson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hubertjerson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
