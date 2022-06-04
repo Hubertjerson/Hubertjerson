@@ -5,7 +5,8 @@
 
 ---
 
-<h3 align="center"><img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="50px">Languages and Tools</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="50px"></h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
