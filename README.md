@@ -2,6 +2,15 @@
 
 ---
 <h1 align="center"> HOLA BIENVENIDOS 😀 </h1>
+<h3 align="center">Soy un Estudiante de desarrollador Front-End de Santiago de Chile</h3>
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@huamanhuberth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@huamanhuberth" height="30" width="40" /></a>
+<a href="https://fb.com/jerson huaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jerson huaman" height="30" width="40" /></a>
+<a href="https://instagram.com/hubertjerson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hubertjerson" height="30" width="40" /></a>
+</p>
 
 ---
 
